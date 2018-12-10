@@ -1,4 +1,7 @@
 # quasar-esm
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/quasar-esm.svg)](https://greenkeeper.io/)
+
 Quasar ESM
 
 ### Install
