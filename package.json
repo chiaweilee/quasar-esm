@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/chiaweilee/quasar-esm#readme",
   "devDependencies": {
-    "quasar-framework": "^0.15.10",
+    "quasar-framework": "^0.17.18",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2"
   }
